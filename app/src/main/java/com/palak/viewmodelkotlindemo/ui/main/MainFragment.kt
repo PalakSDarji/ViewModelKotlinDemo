@@ -27,6 +27,12 @@ class MainFragment : Fragment() {
         super.onActivityCreated(savedInstanceState)
         viewModel = ViewModelProviders.of(this).get(MainViewModel::class.java)
         // TODO: Use the ViewModel
+
+        var a = 1
+        when(a){
+            1-> a = 2
+            2-> print("$a is a")
+        }
     }
 
 }
