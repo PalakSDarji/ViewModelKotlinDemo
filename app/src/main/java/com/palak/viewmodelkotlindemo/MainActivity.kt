@@ -7,6 +7,7 @@ import com.palak.viewmodelkotlindemo.ui.main.MainFragment
 class MainActivity : AppCompatActivity() {
 
     //in develop branch.
+    //changing master to demo rebase.
     //in feature branch.
     //committing again from feature branch.
 
