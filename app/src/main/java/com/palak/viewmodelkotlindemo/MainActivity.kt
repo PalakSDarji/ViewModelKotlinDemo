@@ -7,6 +7,7 @@ import com.palak.viewmodelkotlindemo.ui.main.MainFragment
 class MainActivity : AppCompatActivity() {
 
     //in develop branch.
+    //changing master to demo rebase.
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
