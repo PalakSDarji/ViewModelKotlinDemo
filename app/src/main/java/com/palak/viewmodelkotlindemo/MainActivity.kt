@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     //committing again from feature branch.
 
     //created feature branch from develop using cli
+    //Developed profile feature.
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
