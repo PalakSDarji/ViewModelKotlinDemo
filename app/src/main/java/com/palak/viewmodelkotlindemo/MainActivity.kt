@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
     //in feature branch.
     //committing again from feature branch.
 
+    //created feature branch from develop using cli
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.main_activity)
