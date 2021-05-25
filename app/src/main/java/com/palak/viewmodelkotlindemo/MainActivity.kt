@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
     //created feature branch from develop using cli
     //Developed profile feature.
+    //developed menu.
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
